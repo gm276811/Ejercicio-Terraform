@@ -1,0 +1,7 @@
+region        = "us-east-1"
+vpc_cidr      = "172.16.0.0/16"
+subnet_cidr    = "172.16.1.0/24"
+az            = "us-east-1a"
+ami_id        = "ami-0ea87431b78a82070"
+instance_type = "t2.micro"
+key_name      = "vockey"
